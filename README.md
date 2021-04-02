@@ -8,6 +8,11 @@ Below is the final trajectory travelled by the drone-
     <img src="images/trajectory.png" width="500">  
 </p> 
 
+## Usage
+- `git clone https://github.com/trunc8/aerial-paths-gc`
+- Open the directory in MATLAB
+- `runsim` (In MATLAB's command line interface)
+
 ## Authors
 
 * **Siddharth Saha** - [trunc8](https://github.com/trunc8)
